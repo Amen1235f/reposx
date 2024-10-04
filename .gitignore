@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+myenv/
+virtual/
+
+# Flask specific
+instance/
+.pytest_cache/
+.vscode/
+node_modules/
